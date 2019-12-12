@@ -5,8 +5,6 @@
 This project is a vue version of [FUC API-TEST](https://www.creative-tim.com/product/light-bootstrap-dashboard)
 designed for vue js. The dashboard includes Bootstrap 4, vue-router, chartist, google-maps and several other plugins/components.
 
-Check the [Live Demo here](http://vuejs.creative-tim.com/vue-light-bootstrap-dashboard).
-
 ![](public/Dashboard.PNG)
 ## :rocket: Getting started
 
